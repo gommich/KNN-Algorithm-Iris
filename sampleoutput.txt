@@ -1,0 +1,8 @@
+input: 
+python KNN.py iris-training.txt iris-test.txt 3
+ 
+ 
+ output:
+ ---- K = 3 ----
+
+ Accuracy: 0.96
