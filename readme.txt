@@ -1,12 +1,12 @@
 INSTRUCTIONS: 
 
 1. Open the terminal
-2. cd to the directory of part 1 in the project file   -->  cd path/to/part1
-3. in the folder part 1 there will be 3 files --> KNN.py, iris-training.txt, iris-test.txt
+2. cd to the directory
+3. in the folder there will be 3 files --> KNN.py, iris-training.txt, iris-test.txt
 
 How to run the algorithm:
 
-When in the part1 directory in the terminal, type the following:
+When in the directory in the terminal, type the following:
 
 python KNN.py iris-training.txt iris-test.txt 1
 
